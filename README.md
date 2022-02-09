@@ -1,7 +1,7 @@
 
 ![Matrix SVG](https://raw.githubusercontent.com/rodrigograca31/rodrigograca31/master/matrix.svg)
 <p>
-  <h4 align="center"><b><Hello there, I'm <h2><em>Debrup Dey</em></h2>👋</b></h4>
+  <h1 align="center"><b><Hello there, I'm <i>Debrup Dey</i>👋</b></h1>
 </p>
 
 
