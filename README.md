@@ -5,5 +5,5 @@
 </h3>
 
 <h1 align="center">
-![](https://komarev.com/ghpvc/?username=debrup416&color=20B2AA)
+![Profile views](https://gpvc.arturio.dev/[debrup416])
 </h1>
