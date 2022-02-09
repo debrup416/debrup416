@@ -1,8 +1,8 @@
 
 ![Matrix SVG](https://raw.githubusercontent.com/rodrigograca31/rodrigograca31/master/matrix.svg)
-<h3>
-  <h1 align="center"><b>Hello there, I'm Debrup Dey👋</b></h1>
-</h3>
+<p>
+  <h4 align="center"><b><Hello there, I'm <h2><em>Debrup Dey</em></h2>👋</b></h4>
+</p>
 
 
 ![](https://komarev.com/ghpvc/?username=your-github-debrup416&color=0c1661)
