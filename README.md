@@ -3,3 +3,4 @@
   <h1 align="center"><b>Hello there, I'm Debrup Dey👋</b></h1>
 </h3>
 
+![](https://komarev.com/ghpvc/?username=debrup416&color=a88332)
